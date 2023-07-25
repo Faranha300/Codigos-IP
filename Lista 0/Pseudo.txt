@@ -1,0 +1,10 @@
+inteiro a,b,multi
+leia a
+leia b
+multi = a 
+
+enquanto multi > 0
+    b = b+b
+    multi -= 1
+
+imprima b
